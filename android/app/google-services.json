@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236235732758",
+    "project_id": "tercer-examen",
+    "storage_bucket": "tercer-examen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236235732758:android:98dcace15904ce50258237",
+        "android_client_info": {
+          "package_name": "com.example.tercer_examen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9sz8-XffIgzQ4ZF_TvMxBDWY_t96vAHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
